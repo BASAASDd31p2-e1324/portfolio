@@ -1,0 +1,606 @@
+
+<!DOCTYPE html! >
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>My Portfolio</title>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+		<link rel="stylesheet" href="css/owl.carousel.css">
+		<link rel="stylesheet" href="css/owl.theme.css">
+		<link href="css/bootstrap.css" rel="stylesheet" type="text/css" />
+		<link href="https://fonts.googleapis.com/css?family=Oleo+Script" rel="stylesheet">
+		<link href='https://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+		<link href="css/animations.css" rel="stylesheet" type="text/css" />
+		<link href="css/style.css" rel="stylesheet" type="text/css" />
+		<link href="css/colrstyle0.css" rel="stylesheet" type="text/css" />
+
+				
+
+
+		<!--[if lt IE 7]>
+			  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+			  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+			<![endif]-->
+		<!--[if lt IE 8]>
+			  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+			  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+			<![endif]-->
+		<!--[if lt IE 9]>
+			  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+			  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+			<![endif]-->
+
+			
+	</head>
+	
+
+
+	<body data-spy="scroll" data-target=".navbar">
+		
+		
+		<div class="wrapper">
+				
+			<header>
+				
+				 <section class="styler text-center">
+					<div class="color_cheme">
+						<h4>Color Option</h4>
+						<div class="color_boxes">
+							<ul class="list-unstyled" >
+								<li id="color2" style="background: linear-gradient( rgba(255, 81, 47, .9) 40%, rgba(221,36,118, .9) 70%);"></li>
+								<li id="color3" style="background: linear-gradient( rgba(95, 44, 130, .9) 40%, rgba(73, 160, 157, .9) 70%)"></li>
+								<li id="color4" style="background: linear-gradient( rgba(205, 15, 216, .9) 40%, rgba(52, 131, 255, .9) 70%);"></li>
+								<li id="color1" style="background: linear-gradient( rgba(220, 36, 36, .9) 40%, rgba(74, 86, 157, .9) 70%);"></li>
+
+							</ul>
+						</div>
+					</div>
+					<i class="fa fa-cog fa-2x fa-spin fa-fw cogs-check "></i>
+
+				</section>
+			
+				<nav class="navbar navbar-inverse navbar-fixed-top " role="navigation" >
+			<div class="container-fluid">
+		<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+				  </button>
+     
+  
+				</div>
+
+						<!-- Collect the nav links, forms, and other content for toggling-->
+						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+							<ul class="nav nav-tabs navbar-right" role="tablist">
+								
+									<li  class="active"><a href="#home" data-value="home">HOME</a></li>
+									<li><a href="#about" data-value="about">About Me</a></li>
+									<li><a href="#skils" data-value="skils">skills</a></li>
+									<li><a href="#tools" data-value="tools">My Tools</a></li>
+									<li><a href="#says" data-value="says">THAY SAYES</a></li>
+									<li><a href="#portfoio" data-value="portfoio">Portfolio</a></li>
+							
+							
+							 
+							</ul>	
+						</div>			
+					</div><!-- /navbar-collapse -->
+				</nav>
+				
+			
+						<div class="header-banar text-center" id="home">
+							<div class="overlay animatedParent">
+								<div class="container">
+								
+								<h1 class="larg"><strong class="lead">I'am </strong><span><img src="img/l.png"/><img src="img/o.png"/>
+								 <img src="img/a.png"/><img src="img/y.png"/></span><span style="margin-left:2%"><img src="img/w.png"/><img src="img/a.png"/>
+								 <img src="img/e.png"/><img src="img/b.png"/></span></h1>
+								
+								<h1><span>I</span>
+								  <a href="" class="typewrite" data-period="2000" data-type='[  "am WEB DESIGNER.", "am Creative.", "Love WEB Design.", "Create Themes Awesome." ]'>
+									<span class="wrap"></span>
+								  </a>
+								</h1>
+								</div>
+							
+							</div>
+							<div class="bottom">
+							</div>
+						</div>
+			</header>
+				<section class="about text-center" id="about">
+					<div class="container">
+						<div class="row">
+							<div class="section-title animatedParent " data-appear-top-offset='-50'>
+								<h1 class="animated fadeIn ">ABOUT ME</h1>
+								<span><span></span></span>
+							</div>	
+							<div class="animatedParent " data-appear-top-offset='-100'>
+								<h4 class="animated flipInY slowest">I'm Front End Developer from Tanta,Egypt<br>
+								I enjoy turning complex problems into simple, beautiful and intuitive interface designs and currently working as a freelancer designer
+								<br>design is not just a job for me, it's a passion..<h4>
+							</div>
+							<div class="features">
+								<div class="col-md-3 col-sm-6 col-xs-12 animatedParent" data-appear-top-offset="-200">
+								<div class="responsive animated fadeInUpShort slowest">
+								</div>
+									<h4>Responsive Web Site</h4>
+								</div>
+								<div class="col-md-3 col-sm-6 col-xs-12 animatedParent" data-appear-top-offset="-200">
+									<div class="one animated fadeInDownShort slowest"></div>
+									<h4>Landing Page</h4>
+								</div>
+								<div class="col-md-3 col-sm-6 col-xs-12 animatedParent" data-appear-top-offset="-200">
+									<div class="multisite animated fadeInUpShort slowest"></div>
+									<h4>Multiy Pages Web Site</h4>
+								</div>
+								<div class="col-md-3 col-sm-6 col-xs-12 animatedParent" data-appear-top-offset="-200">
+									<div class="flat animated fadeInDownShort slowest"></div>
+									<h4>Flat Web Site</h4>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+				<section class="skils text-center" id="skils">
+					<div class="top"></div>
+					<div class="overlay">
+						<div class="container">
+							<div class="row">
+								<div class="section-title white-color animatedParent " data-appear-top-offset='-50'>
+								<h1 class="animated fadeIn ">My technical skills</h1>
+									<span><span></span></span>
+								</div>	
+								<div class="col-md-3 col-sm-6 col-xs-12 animatedParent " data-appear-top-offset='-200'>
+									<div class="animated bounceInUp ">
+										<div class="progressbar" data-animate="false">
+											<div class="circle" data-percent="95">
+												<div></div>
+													<h4>HTML5</h4>				
+											</div>
+										</div>
+									</div>	
+								</div>	
+								<div class="col-md-3 col-sm-6 col-xs-12  animatedParent " data-appear-top-offset='-200'>
+									<div class="animated bounceInDown ">
+										<div class="progressbar" data-animate="false">
+											<div class="circle" data-percent="90">
+												<div></div>
+												<h4> Css3</h4>					
+											</div>
+										</div>
+									</div>	
+								</div>	
+								<div class="col-md-3 col-sm-6 col-xs-12 animatedParent " data-appear-top-offset='-200'>
+									<div class="animated bounceInUp ">
+										<div class="progressbar" data-animate="false">
+											<div class="circle" data-percent="80">
+												<div></div>
+												<h4>JQuery</h4>					
+											</div>
+										</div>
+									</div>	
+								</div>	
+								<div class="col-md-3 col-sm-6 col-xs-12  animatedParent" data-appear-top-offset='-200'>
+									<div class=" bo animated bounceInDown ">
+										<div class="progressbar" data-animate="false">
+											<div class="circle" data-percent="95">
+												<div></div>
+												<h4>Bootsrrap3</h4>				
+											</div>
+										</div>
+									</div>
+								</div>	
+							</div>	
+						</div>
+					</div>	
+                    <div class="bottom"></div>			
+				</section>
+				<section class="tools " id="tools">
+					<div class="container">
+						<div class="row">
+							<div class="section-title animatedParent " data-appear-top-offset='-50'>
+								<h1 class="animated fadeIn ">My Tools</h1>
+								<span><span></span></span>
+							</div>
+							<div class=" animatedParent " data-appear-top-offset='-100'>
+								<div class="col-md-4 col-sm-6 col-xs-12 animated fadeInUpShort slowest">
+									<div class="col-md-4 col-sm-12">
+										<img class="img-responsive img-thumbnail" src="img/bootstrap.png"/>
+									</div>
+									<div class="col-md-8 col-sm-12">
+										<h4>Bootstrap3</h4>
+										<p>Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.</p>
+									</div>
+									
+								</div>
+							</div>
+							
+							<div class=" animatedParent " data-appear-top-offset='-150'>
+								<div class="col-md-4 col-sm-6 col-xs-12 animated fadeInUpShort slowest">
+									<div class="col-md-4 col-sm-12">
+										<img class="img-responsive img-thumbnail" src="img/wowjs.png"/>
+									</div>
+									<div class="col-md-8 col-sm-12">
+										<h4>WOW.JS</h4>
+										<p>This is a Javascript library which works nicely with the Animate library to create great animations witch elements will start those elements become visible as you scroll down the page.</p>
+									</div>
+									
+								</div>
+							</div>	
+							<div class=" animatedParent " data-appear-top-offset='-200'>
+								<div class="col-md-4 col-sm-6 col-xs-12 animated fadeInUpShort slowest">
+									<div class="col-md-4 col-sm-12">
+										<img class="img-responsive img-thumbnail" src="img/font-awesome.png"/>
+									</div>
+									<div class="col-md-8 col-sm-12">
+										<h4>Font Awesome</h4>
+										<p>Font Awesome gives you scalable vector icons that can instantly be customized  size, color, drop shadow, and anything that can be done with the power of CSS.
+
+										</p>
+									</div>
+									
+								</div>
+							</div>	
+							
+						</div>
+					</div>						
+					
+				</section>
+				<section class="says" id="says">
+					<div class="overlay">
+					<div class="top"></div>
+						<div class="container">
+							<div class="row">
+								<div class="section-title white-color animatedParent " data-appear-top-offset='-50'>
+								<h1 class="animated fadeIn ">Customer Says</h1>
+									<span><span></span></span>
+								</div>	
+								<div id="owl-example" class="owl-carousel " style="direction: ltr;text-align:center">
+
+							
+								<div class="item ">
+									<div class="comment">
+										<h5>انسان رائع
+											محترف في عمله
+											سررت كثيرا بالتعامل معها
+											انصح بها وبشده
+											تحياتي </h5>
+									</div>
+									<div class="info">
+									<div class="photo">
+									<img src="img/iraq.jpg" alt="slide1">
+									</div>
+									<div class="clearfix"></div>
+									<div class="seg ">
+						  
+										<h4>zyadlion</h4><p>Iraq</p>
+										</div>
+									</div>
+								</div>
+								<div class="item ">
+									<div class="comment">
+										<h5>ماشاء الله تبارك الله صراحة انسان متعاون و عارف شغله وصادق
+											تم تعديل تصميم موقعي زي ماكنت اريد وفي فترة قصير </h5>
+									</div>
+									<div class="info">
+									<div class="photo">
+									<img src="img/ksa.jpg" alt="slide1">
+									</div>
+									<div class="clearfix"></div>
+									<div class="seg ">
+							
+										<h4>naif omar</h4><p>KSA</p>
+									</div></div>
+								</div>
+
+								<div class="item ">
+									<div class="comment">
+										<h5>ذوق وفن وابداع بمعني الكلمة
+										يمكن الاعتماد عليه في المشاريع الصغيره والكبيره.
+										تجاوب ممتاز 
+										وأداء مبدع
+										شكرا لك</h5>
+									</div>
+									<div class="info">
+									<div class="photo">
+									<img src="img/syr.jpg" alt="slide1">
+									</div>
+									<div class="clearfix"></div>
+									<div class="seg ">
+										<h4>wabel zaeem</h4>
+										<p>Syria</p>
+									</div></div>
+								</div>
+								<div class="item ">
+									<div class="comment">
+										<h5>أنسان مبدع بكل معنى ألكلمة , انصح جدا بالتعامل معه 
+											سرعة عالية بالعمل و مزوق في التصميم ما شأ ألله 
+											هذه ليس اخر تعامل بيننا
+											</h5>
+										</div>
+										<div class="info">
+										<div class="photo">
+									<img src="img/leb.jpg" alt="slide1">
+									</div>
+									<div class="clearfix"></div>
+									<div class="seg ">
+										<h4>Elie Doumet</h4>
+										<p>Lebanon</p>
+									</div></div>
+								</div>
+							<div class="item ">
+								<div class="comment">
+									<h5>عاشت الايادي 
+									خدمة جيده جدا 
+									الاخ لؤي متعاون ومتواصل بشكل مستمر وبارك الله فيك
+									التعامل معه شرفني
+									ارجو ان يكون هناك تعامل اخر 
+
+									شكرا لك اخ لؤي وبارك الله فيك
+									</h5>
+								</div>
+								<div class="info">
+								<div class="photo">
+							  <img src="img/iraq.jpg" alt="slide1">
+							  </div>
+							  <div class="clearfix"></div>
+							   <div class="seg ">
+									<h4>ali najeeb</h4>
+									<p>Iraq</p>
+								</div></div>
+								</div>
+								<div class="item ">
+								<div class="comment">
+									<h5>اخ نشيط ..
+
+										        رائع ..
+
+										        صبور ..
+
+											راقي بالتعامل مع الآخرين ..
+
+											عمله جيد جداً ....
+
+											انصح بالتعامل معه بدون تردد
+									</h5>
+								</div>
+								<div class="info">
+								<div class="photo">
+							  <img src="img/yaman.jpg" alt="slide1">
+							  </div>
+							  <div class="clearfix"></div>
+							   <div class="seg ">
+									<h4>bayiti group</h4>
+									<p>Yaman</p>
+								</div></div>
+								</div>
+								<div class="item ">
+								<div class="comment">
+									<h5>أشكرك على أنجاز العمل في سرعة وأتقان وربنا يوفقك دائماً ، وأنصح الجميع بالتعامل معك لأنك غاية في الأبداع والذوق وتهتم بالسرعة مع جودة العمل
+									</h5>
+								</div>
+								<div class="info">
+								<div class="photo">
+							  <img src="img/eg.jpg" alt="slide1">
+							  </div>
+							  <div class="clearfix"></div>
+							   <div class="seg ">
+									<h4>Osama Aladawi</h4>
+									<p>Egypt</p>
+								</div></div>
+								</div>
+								<div class="item ">
+								<div class="comment">
+									<h5>مبرمج ممتاز وصاااادق مع العميل
+									تنجز العمل بوقت قياسي 
+								 انصحكم بالتعامل معه</h5>
+								</div>
+								<div class="info">
+								<div class="photo">
+							  <img src="img/uae.jpg" alt="slide1">
+							  </div>
+							  <div class="clearfix"></div>
+							   <div class="seg ">
+									<h4>المها العربي</h4>
+									<p>UAE</p>
+								</div>
+								</div></div>
+							</div>
+							</div>
+						</div>
+						<div class="bottom"></div>
+					</div>
+					
+				</section>	
+							
+				<section class="portfoio text-center" id="portfoio">
+					
+					<div class="container">
+						<div class="">
+							<div class="section-title animatedParent " data-appear-top-offset='-50'>
+								<h1 class="animated fadeIn ">Portfoio</h1>
+								<span><span></span></span>
+							</div>	
+							<div class="item-box">
+								<div class="itm row">
+							<div class="col-md-4 col-sm-6 col-xs-12 animatedParent " data-appear-top-offset='-100'>
+								<div class="demopage animated fadeInUpShort slowest delay-150">
+									<div class="demopage-preview_item">
+										<div class="demopage-preview_inner demopage-img demopage-img_10"></div>									
+									</div>
+									<h4><a href="http://amalzaky.esy.es/hamad/index.html">D.R:Hamad ELwanees</a></h4>
+								</div>
+							</div>
+							<div class="col-md-4 col-sm-6 col-xs-12 animatedParent " data-appear-top-offset='-200'>
+								<div class="demopage animated fadeInUpShort slowest delay-300">
+									<div class="demopage-preview_item">
+										<div class="demopage-preview_inner demopage-img demopage-img_11"></div>									
+									</div>
+									<h4><a href="http://amolazaky.esy.es/codek/index.html">tourism site</a></h4>
+								</div>
+							</div>
+							<div class="col-md-4 col-sm-6 col-xs-12 animatedParent " data-appear-top-offset='-300'>
+								<div class="demopage animated fadeInUpShort slowest delay-450">
+									<div class="demopage-preview_item">
+										<div class="demopage-preview_inner demopage-img demopage-img_12"></div>									
+									</div>
+									<h4><a href="http://amolazaky.esy.es/ibn-taymia/">Ibn-Taymia</a></h4>
+								</div>
+							</div>
+							</div>
+							<div class="itm row">
+							<div class="col-md-4 col-sm-6 col-xs-12 animatedParent " data-appear-top-offset='-100'>
+								<div class="demopage animatedParent animated fadeInUpShort slowest delay-150">
+									<div class="demopage-preview_item">
+										<div class="demopage-preview_inner demopage-img demopage-img_9"></div>									
+									</div>
+									<h4><a href="http://amalmadyen.esy.es/logistc/">Logistic News</a></h4>
+								</div>
+							</div>
+							<div class="col-md-4 col-sm-6 col-xs-12 animatedParent " data-appear-top-offset='-200'>
+								<div class="demopage animated fadeInUpShort slowest delay-300">
+									<div class="demopage-preview_item">
+										<div class="demopage-preview_inner demopage-img demopage-img_8"></div>									
+									</div>
+									<h4><a href="http://amalmadyen.esy.es/areab3/">Palestine newse</a></h4>
+								</div>
+							</div>
+							<div class="col-md-4 col-sm-6 col-xs-12 animatedParent " data-appear-top-offset='-300'>
+								<div class="demopage animated fadeInUpShort slowest delay-450">
+									<div class="demopage-preview_item">
+										<div class="demopage-preview_inner demopage-img demopage-img_7"></div>									
+									</div>
+									<h4><a href="http://amalmadyen.esy.es/mbc/">MBC Spoorrt</a></h4>
+								</div>
+							</div>
+							</div>
+							<div class="itm row">
+							<div class="col-md-4 col-sm-6 col-xs-12 animatedParent " data-appear-top-offset='-100'>
+								<div class="demopage animated fadeInUpShort slowest delay-150">
+									<div class="demopage-preview_item">
+										<div class="demopage-preview_inner demopage-img demopage-img_6"></div>									
+									</div>
+									<h4><a href="http://amalmadyen.esy.es/zahrroman/">Zahr Elroman</a></h4>
+								</div>
+							</div>
+							<div class="col-md-4 col-sm-6 col-xs-12 animatedParent " data-appear-top-offset='-200'>
+								<div class="demopage animated fadeInUpShort slowest delay-300">
+									<div class="demopage-preview_item">
+										<div class="demopage-preview_inner demopage-img demopage-img_5"></div>									
+									</div>
+									
+									<h4><a href="http://helwawater.eb2a.com/helwa/index.html?i&i=1">Helwa Water</a></h4>
+								</div>
+							</div>
+							<div class="col-md-4 col-sm-6 col-xs-12 animatedParent " data-appear-top-offset='-300'>
+								<div class="demopage animated fadeInUpShort slowest delay-450">
+									<div class="demopage-preview_item">
+										<div class="demopage-preview_inner demopage-img demopage-img_4"></div>									
+									</div>
+									<h4><a href="http://amola.esy.es/codes/index.html">Code Serve for hosting</a></h4>
+								</div>
+							</div>
+							</div>
+							<div class="itm">
+							<div class="col-md-4 col-sm-6 col-xs-12 animatedParent " data-appear-top-offset='-100'>
+								<div class="demopage animated fadeInUpShort slowest delay-150">
+									<div class="demopage-preview_item">
+										<div class="demopage-preview_inner demopage-img demopage-img_3"></div>									
+									</div>
+									<h4><a href="http://amolazaky.esy.es/rooz/">Roze medical complex</a></h4>
+								</div>
+							</div>
+							<div class="col-md-4 col-sm-6 col-xs-12 animatedParent " data-appear-top-offset='-200'>
+								<div class="demopage animated fadeInUpShort slowest delay-300">
+									<div class="demopage-preview_item">
+										<div class="demopage-preview_inner demopage-img demopage-img_2"></div>									
+									</div>
+									<h4><a href="http://bwaba4all.esy.es/codeserve/">CODE SERV</a></h4>
+								</div>
+							</div>
+							<div class="col-md-4 col-sm-6 col-xs-12 animatedParent " data-appear-top-offset='-300'>
+								<div class="demopage animated fadeInUpShort slowest delay-450">
+									<div class="demopage-preview_item">
+										<div class="demopage-preview_inner demopage-img demopage-img_1"></div>									
+									</div>
+									<h4><a href="http://amolazaky.esy.es/media">M fro K For photography</a></h4>
+								</div>
+							</div>
+							</div>
+						
+						</div>
+					
+						<a href="#" id="loadMore">Load More</a>
+					</div>
+					</div>
+							
+				</section>
+				
+			
+			
+						
+							
+			
+			
+	
+					<div class="clearfix"></div>
+					<footer>
+						<div class="container">
+							<div class="row">
+								<div class="col-md-4 col-sm-12">
+									<h5 class="copy">Copyright &copy; 2017 <a href="loay web </a> .com</h5>
+								</div>
+								<div class="col-md-4 col-sm-12 text-center">
+									 
+									<img src="http://cgibin.erols.com/cgi-bin/Count.cgi?df=loayweb&ft=6&tr=N&dd=B&md=8">
+								</div>
+								<div class="col-md-4 col-sm-12">
+									<div class="sochal text-center">
+									<a href="https://www.facebook.com/"><div class="face"><i class="fa fa-facebook fa-lg"></i></div></a>
+									<a href=""><div class="tw"><i class="fa fa-twitter fa-lg"></i></div></a>
+									<a href=""><div class="gol"><i class="fa fa-google-plus fa-lg"></i></div></a>
+											
+								</div>
+								</div>
+							</div>
+					
+							
+						</div>
+					</footer>
+					<div class="loading">
+					
+                <div class="sk-folding-cube">
+                  <div class="sk-cube1 sk-cube"></div>
+                  <div class="sk-cube2 sk-cube"></div>
+                  <div class="sk-cube4 sk-cube"></div>
+                  <div class="sk-cube3 sk-cube"></div>
+                </div>
+            </div>
+			 <!-- Start Scroller -->
+    
+				<div id="elevator_item" style="display: block;"> 
+						<a id="elevator" onclick="return false;" title="Back To Top"><i class="fa fa-chevron-up fa-2x"></i></a> 
+				</div>
+				
+				<!-- End Scroller -->
+					<script src="js/jquery.js"></script>
+					<script src="js/bootstrap.min.js"></script>
+					<script src="js/owl.carousel.js"></script>
+					<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-circle-progress/1.2.2/circle-progress.min.js"></script>
+					<script src="js/css3-animate-it.js"></script>
+					
+					<script src="js/plug.js"></script>
+					
+
+
+    
+	</body>
+</html>
